@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dron-1
-- 👀 I’m not interested in coding obviously.But I like to do coding and making web applications sometimes.
-- 🌱 I’m currently learning full-stack development with MERN.
+- 👀 I’m interested in coding.I like making web applications and mobile applications sometimes.
+- 🌱 I’m currently trying to sharp my programming concepts, coding and logical reasoning.
 - 📫 How to reach me ,mail-me "dronchandna.333@gmail.com"
 
 <!---
